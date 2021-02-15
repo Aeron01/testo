@@ -5,10 +5,10 @@
 // let msg = 'Hello Alyra' // une phrase (a string)
 // let isStarted = true // un booléen (a boolean)
 // let isFinished = false // un booléen (a boolean)
-// nothing = null // quelques choses de null (something null)
-// something // undefined (non définie)
+// null // quelques choses de null (something null)
+// undefined (non définie)
 
-// nothing et something ne sont pas ou peut utilisée
+// null et undefined sont très peu utilisé. Il est conseillier d'éviter de s'en servire.
 
 // --------------------------------------------------
 
